@@ -18,7 +18,7 @@ export const useAuthStore = create((set, get)=>({
 // 	•	Profile update ho rahi hai ya nahi
 // ✅ Helpful for showing loaders/spinners in UI.
  isSigningUp: false,
-    isLoggingIng: false,
+    isLoggingIn: false,
     isUpdatingProfile: false,
 
 
